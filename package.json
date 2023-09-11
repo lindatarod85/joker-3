@@ -1,6 +1,6 @@
 {
   "name": "joker-3",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "example description",
   "type": "module",
   "main": "src/index.js",
